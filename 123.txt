@@ -1,0 +1,27 @@
+<doctype>
+<html>
+<head>
+<title>kerly guaycha</title>
+</head>
+<h1><center>MENU HTML</h1></center>
+<hr>
+<body bgcolor="aqua">
+<nav id="menu"
+<ul>
+<li><a href="#">ENLACE 1</a></li>
+<ul>
+<li><a href="#">ENLACE 1</a></li>
+<li><a href="#">ENLACE 2</a></li>
+<ul>
+<li><a href="#">ENLACE 2.1</a></li>
+<li><a href="#">ENLACE 2.2</a></li>
+<li><a href="#">ENLACE 2.3</a></li>
+</li>
+</ul>
+<li><a href="#">ENLACE 3</a></li>
+<li><a href="#">ENLACE 4</a></li>
+<li><a href="#">ENLACE 5</a></li>
+</ul>
+</nav>
+</body>
+</html>
